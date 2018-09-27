@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RecordNumbers</string>
+
+    <string name="recordOne">record One</string>
+    <string name="recordTwo">record Two</string>
+    <string name="updateButton">UPDATE Records</string>
+
+</resources>
